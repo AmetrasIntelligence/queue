@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ametras-xsolutions\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.queue] 13.0/base_import_async/i18n/base_import_async.pot\n"
+"X-Crowdin-File-ID: 4496\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 21:52\n"
+
+#. module: base_import_async
+#: code:addons/base_import_async/models/queue_job.py:0
+#, python-format
+msgid "Attachment"
+msgstr ""
+
+#. module: base_import_async
+#: model:ir.model,name:base_import_async.model_base_import_import
+msgid "Base Import"
+msgstr ""
+
+#. module: base_import_async
+#: code:addons/base_import_async/models/base_import_import.py:0
+#, python-format
+msgid "Import %s from file %s"
+msgstr ""
+
+#. module: base_import_async
+#: code:addons/base_import_async/models/base_import_import.py:0
+#, python-format
+msgid "Import %s from file %s - #%s - lines %s to %s"
+msgstr ""
+
+#. module: base_import_async
+#. openerp-web
+#: code:addons/base_import_async/static/src/xml/import.xml:0
+#, python-format
+msgid "Import in the background"
+msgstr ""
+
+#. module: base_import_async
+#: model:ir.model,name:base_import_async.model_queue_job
+msgid "Queue Job"
+msgstr ""
+
+#. module: base_import_async
+#. openerp-web
+#: code:addons/base_import_async/static/src/xml/import.xml:0
+#, python-format
+msgid "When checked, the import will be executed as a background job, after splitting your file in small chunks that will be processed independently. Use this to import very large files."
+msgstr ""
+
+#. module: base_import_async
+#. openerp-web
+#: code:addons/base_import_async/static/src/js/import.js:0
+#, python-format
+msgid "You can check the status of this job in menu 'Queue / Jobs'."
+msgstr ""
+
+#. module: base_import_async
+#. openerp-web
+#: code:addons/base_import_async/static/src/js/import.js:0
+#, python-format
+msgid "Your request is being processed"
+msgstr ""
+
