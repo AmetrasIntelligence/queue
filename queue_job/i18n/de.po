@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.queue] 13.0/queue_job/i18n/queue_job.pot\n"
 "X-Crowdin-File-ID: 4500\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:56\n"
+"PO-Revision-Date: 2022-08-08 02:09\n"
 
 #. module: queue_job
 #: model_terms:ir.ui.view,arch_db:queue_job.view_queue_job_form
@@ -439,7 +439,7 @@ msgstr "Fehler beim Versenden der Nachrichten"
 #. module: queue_job
 #: model:ir.model.fields,field_description:queue_job.field_queue_job__message_ids
 msgid "Messages"
-msgstr "Mitteilungen"
+msgstr "Nachrichten"
 
 #. module: queue_job
 #: model:ir.model.fields,field_description:queue_job.field_queue_job_function__method
