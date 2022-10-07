@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.queue] 13.0/queue_job/i18n/queue_job.pot\n"
 "X-Crowdin-File-ID: 4500\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-06 07:41\n"
+"PO-Revision-Date: 2022-10-07 05:52\n"
 
 #. module: queue_job
 #: model_terms:ir.ui.view,arch_db:queue_job.view_queue_job_form
@@ -234,7 +234,7 @@ msgstr ""
 #: model:ir.model.fields.selection,name:queue_job.selection__queue_job__state__failed
 #: model_terms:ir.ui.view,arch_db:queue_job.view_queue_job_search
 msgid "Failed"
-msgstr ""
+msgstr "Gescheitert"
 
 #. module: queue_job
 #: model:ir.model.fields,field_description:queue_job.field_ir_model_fields__ttype
